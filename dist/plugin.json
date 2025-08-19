@@ -1,0 +1,50 @@
+{
+  "name": "siyuan-plugin-crypt-file",
+  "author": "jeasionr-ui",
+  "url": "https://github.com/jeasionr-ui/siyuan-plugin-crypt-file",
+  "version": "0.1.0",
+  "minAppVersion": "3.0.12",
+  "backends": [
+    "windows",
+    "linux",
+    "darwin",
+    "ios",
+    "android",
+    "harmony",
+    "docker"
+  ],
+  "frontends": [
+    "desktop",
+    "mobile",
+    "browser-desktop",
+    "browser-mobile",
+    "desktop-window"
+  ],
+  "displayName": {
+    "en_US": "Encrypted File Manager",
+    "zh_CN": "加密文件管理器"
+  },
+  "description": {
+    "en_US": "A plugin for encrypting and managing files in SiYuan",
+    "zh_CN": "思源笔记的文件加密管理插件"
+  },
+  "readme": {
+    "en_US": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "funding": {
+    "custom": [
+      ""
+    ]
+  },
+  "keywords": [
+    "plugin",
+    "encrypt",
+    "file",
+    "security",
+    "插件",
+    "加密",
+    "文件",
+    "安全"
+  ]
+}
