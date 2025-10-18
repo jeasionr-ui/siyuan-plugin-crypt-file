@@ -40,7 +40,7 @@
 
 
 - 视频教程
-<iframe src="http://47.86.237.178:5895/down/aYgi2noQZeOu.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+(操作视频)[http://47.86.237.178:5895/down/aYgi2noQZeOu.mp4]
 
 
 ## 文件类型支持
