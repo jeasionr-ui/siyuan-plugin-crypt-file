@@ -40,7 +40,7 @@
 
 
 - 视频教程
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115052912902459&bvid=BV1qBYazpEUg&cid=31790926826&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="http://47.86.237.178:5895/down/aYgi2noQZeOu.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
 ## 文件类型支持
